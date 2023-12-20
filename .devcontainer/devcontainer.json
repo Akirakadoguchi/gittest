@@ -1,6 +1,4 @@
 {
-        "name": "GitHub Codespaces (Default)",
-        "build": {
-          "dockerfile": "Dockerfile"
-        }
+        "name" : "git_test",
+        "dockerFile" : "Dockerfile"
 }
