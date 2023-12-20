@@ -31,4 +31,4 @@ jobs:
           context: .devcontainer/
           file: .devcontainer/base.Dockerfile
           push: true
-          tags: ${{ env.REGISTRY }}/${{ github.repository }}/codespace:latest
+          tags: gittest/codespace:latest
