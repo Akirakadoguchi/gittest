@@ -1,1 +1,6 @@
-//test
+{
+        "name": "GitHub Codespaces (Default)",
+        "build": {
+          "dockerfile": "base.Dockerfile"
+        }
+}
